@@ -1,0 +1,16 @@
+{
+  "name": "weird-bug",
+  "version": "0.0.0",
+  "description": "WeirdBug",
+  "main": "app.js",
+  "author": {
+    "name": "Paul",
+    "email": ""
+  },
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "gulp": "^3.9.1",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.12.15"
+  }
+}
